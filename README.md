@@ -1,6 +1,6 @@
 ## SWE
 
-SWE is a server engine with a template system and a CMS system, based on the SlamaxWebDK api.
+SWE is a server engine with a template system and a CMS system, and it is based on the SlamaxWebDK api.
 
 ### Markdown
 
